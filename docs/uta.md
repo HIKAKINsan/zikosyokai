@@ -1,16 +1,16 @@
 **好きな歌**
 # 1つ目
-TOUGH　BOY
+>TOUGH　BOY
 
 # 2つ目
-ピエロ
+>ピエロ
 
 # 3つ目
-愛をとりもどせ！
+>愛をとりもどせ！
 
 # 4つ目
 
-STILL ALIVE
+>STILL ALIVE
 
 ***
 [ホーム](index.md)
